@@ -39,7 +39,7 @@ const HomePage = () => {
         </div>
       </PopoverContent>
     </Popover>
-    {/* <Dashboard /> */}
+    <Dashboard />
     </div>
   );
 };
